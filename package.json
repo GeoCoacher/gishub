@@ -1,0 +1,23 @@
+{
+  "name": "gishub",
+  "version": "1.0.0",
+  "description": "Gis data version control and collaboration tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GeoCoacher/gishub.git"
+  },
+  "keywords": [
+    "gis",
+    "gishub"
+  ],
+  "author": "Anatolie Golovco",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/GeoCoacher/gishub/issues"
+  },
+  "homepage": "https://github.com/GeoCoacher/gishub#readme"
+}
