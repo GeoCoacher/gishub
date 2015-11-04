@@ -1,0 +1,9 @@
+gishub log
+
+  View a history of all changes made to the dat.
+
+Options:
+
+  --json
+
+    Get results to stdout as a newline-delimited json stream.

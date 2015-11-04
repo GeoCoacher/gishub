@@ -1,0 +1,9 @@
+gishub read <file or key>
+
+  Read binary data from a file stored in dat
+
+Parameters:
+
+  <file or key> (required)
+
+    The file or key to read. Must be one of the results from `gishub files`.

@@ -1,0 +1,13 @@
+gishub keys
+
+  Stream a range of keys out of a dataset. Dataset name required.
+
+Options:
+
+  --dataset=<dataset> (-d)
+
+    Filter by the given dataset.
+
+  --limit=<num> (-l)
+
+    Only show a given number of keys.

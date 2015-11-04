@@ -1,0 +1,13 @@
+gishub get <key>
+
+  Returns the row with the given primary key.
+
+Parameters
+
+  <key>: required
+
+    The key to lookup.
+
+  --dataset (-d): required
+
+    The dataset associated with that key.
