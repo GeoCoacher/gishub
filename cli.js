@@ -26,7 +26,9 @@ var config = {
     require('./bin/help.js'),
     require('./bin/serve.js'),
     require('./bin/status.js'),
-    require('./bin/write.js')
+    require('./bin/write.js'),
+    require('./bin/shp.js'),
+    require('./bin/geojson.js'),
   ],
   defaults: require('./bin/defaults.js'),
   none: noMatch
